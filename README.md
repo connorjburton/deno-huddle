@@ -25,3 +25,5 @@ These notes are in order
 - `deno fmt` replaces `prettier`
 - `deno bench` allows you to benchmark your code
 - `deno test` replaces `mocha`, `chai` or `jest`
+- `deno vendor` can be used to download dependencies locally
+- `deno task` is for running tasks defined in a Deno configuration file
